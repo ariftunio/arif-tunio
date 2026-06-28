@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Arif%20Tunio&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Professional%20WordPress%20Developer%20%26%20Technical%20SEO%20Specialist&descAlignY=62&descSize=18" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=750&lines=Custom+WordPress+Development;Theme+%26+Plugin+Development;Performance+%2B+Technical+SEO;Building+with+AI-assisted+Workflows" alt="Typing animation"/>
-
-</div>
-
-<br/>
-
 ### About Me
 
 I'm **Arif Tunio**, a WordPress developer and technical SEO specialist from Pakistan. I build websites that don't just look good in a demo, they hold up under real traffic, real content, and real client edits down the line.
@@ -36,7 +24,7 @@ Business website built around lead generation and digital solutions.
 
 **[SpeedCore](https://speedcore.ae/)**
 
-Corporate website with a strong focus on performance and a clean, modern UI.
+Home Maintenance website with a strong focus on performance and a clean, modern UI.
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance-203A43?style=flat-square)
@@ -70,7 +58,7 @@ Large-scale business directory with custom post types, advanced filtering, and S
 
 **[ZA Landscaping](https://zalandscaping.com/)**
 
-Website built for a professional landscaping business.
+Local Business Website built for a professional landscaping business.
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
@@ -79,7 +67,7 @@ Website built for a professional landscaping business.
 
 **[RCL Pakistan](https://rcl.com.pk/)**
 
-Corporate company website built on WordPress.
+Law College Institute website built on WordPress Local SEO, On Page SEO.
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
@@ -103,14 +91,6 @@ Corporate company website built on WordPress.
 ![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WOOCOMMERCE-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Elementor](https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <br/>
 
@@ -138,42 +118,6 @@ I'm exploring how AI fits into a real WordPress development workflow, not as a s
 
 <br/>
 
-## Latest Repositories
-
-> Replace `your-github-username` and the repo names below with your own to pin specific projects.
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name-1&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name-2&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-> Replace `your-github-username` below with your actual GitHub handle for these to render.
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=github_dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
 ## Let's Connect
 
 <div align="center">
@@ -181,8 +125,8 @@ I'm exploring how AI fits into a real WordPress development workflow, not as a s
 <a href="https://www.youtube.com/@ariftunio-official"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://ariftunio.online"><img src="https://img.shields.io/badge/WEBSITE-6C3FC5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/arif-tunio"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://web.facebook.com/ariftunio.dev/"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="mailto:ariftunio387@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
