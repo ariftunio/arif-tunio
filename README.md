@@ -10,6 +10,8 @@
 
 I'm a WordPress developer and technical SEO specialist based in Pakistan. I build WordPress websites that are fast, secure, and easy to maintain, and I spend most of my time solving the kind of problems that come up when a site needs to actually perform at scale, not just look good in a demo.
 
+Outside of client work, I run StyloThemes, build tools at MSR Builds, and teach WordPress development on YouTube through WP Academy PK.
+
 ## Expertise
 
 Custom WordPress development, theme development, plugin development, WooCommerce and Elementor development, PHP, JavaScript, HTML5, CSS3, MySQL, REST APIs, technical SEO, Core Web Vitals, speed optimization, website security, and general maintenance.
@@ -51,7 +53,8 @@ WordPress · PHP · JavaScript · HTML5 · CSS3 · MySQL · WooCommerce · Eleme
 Portfolio: [ariftunio.online](https://ariftunio.online)
 LinkedIn: [linkedin.com/in/arif-tunio](https://linkedin.com/in/arif-tunio)
 YouTube: [Arif Tunio](https://www.youtube.com/@ariftunio-official)
-Email: ariftunio387@gmail.com
+GitHub: add your GitHub URL here
+Email: add your email here
 
 <br/>
 
