@@ -10,8 +10,6 @@
 
 I'm a WordPress developer and technical SEO specialist based in Pakistan. I build WordPress websites that are fast, secure, and easy to maintain, and I spend most of my time solving the kind of problems that come up when a site needs to actually perform at scale, not just look good in a demo.
 
-Outside of client work, I run StyloThemes, build tools at MSR Builds, and teach WordPress development on YouTube through WP Academy PK.
-
 ## Expertise
 
 Custom WordPress development, theme development, plugin development, WooCommerce and Elementor development, PHP, JavaScript, HTML5, CSS3, MySQL, REST APIs, technical SEO, Core Web Vitals, speed optimization, website security, and general maintenance.
