@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a WordPress developer and technical SEO specialist based in Pakistan. I build WordPress websites that are fast, secure, and easy to maintain — and I spend most of my time solving the kind of problems that come up when a site needs to actually perform at scale, not just look good in a demo.
+I'm a WordPress developer and technical SEO specialist based in Pakistan. I build WordPress websites that are fast, secure, and easy to maintain, and I spend most of my time solving the kind of problems that come up when a site needs to actually perform at scale, not just look good in a demo.
 
 Outside of client work, I run StyloThemes, build tools at MSR Builds, and teach WordPress development on YouTube through WP Academy PK.
 
@@ -18,49 +18,43 @@ Custom WordPress development, theme development, plugin development, WooCommerce
 
 ## What I'm Working On
 
-Right now I'm going deeper into plugin architecture, writing cleaner PHP, and getting more comfortable building reusable WordPress components. I'm also spending time exploring how AI fits into a real development workflow — not as a gimmick, but as something that actually speeds up the boring parts.
+Right now I'm going deeper into plugin architecture, writing cleaner PHP, and getting more comfortable building reusable WordPress components. I'm also spending time exploring how AI fits into a real development workflow, not as a gimmick, but as something that actually speeds up the boring parts.
 
 ## Why I Teach
 
-Most WordPress tutorials either stay too surface-level or jump straight into advanced territory and lose people halfway through. I try to explain things the way I wish someone had explained them to me — hooks, custom post types, ACF, WooCommerce customization, plugin development — in a way that actually makes sense the first time. The goal is simple: help developers go from copying code to understanding it.
+Most WordPress tutorials either stay too surface-level or jump straight into advanced territory and lose people halfway through. I try to explain things the way I wish someone had explained them to me: hooks, custom post types, ACF, WooCommerce customization, and plugin development, in a way that actually makes sense the first time. The goal is simple: help developers go from copying code to understanding it.
 
 ## Featured Projects
 
-**Leadee** — [leadee.co](https://leadee.co/)
+**Leadee**: [leadee.co](https://leadee.co/)
 A business website built around lead generation and digital solutions.
 
-**Business Incubation Center, MUET** — [bic.muet.edu.pk](https://bic.muet.edu.pk/)
+**Business Incubation Center, MUET**: [bic.muet.edu.pk](https://bic.muet.edu.pk/)
 Official site for the university's business incubation center, built on a custom WordPress setup.
 
-**SpeedCore** — [speedcore.ae](https://speedcore.ae/)
+**SpeedCore**: [speedcore.ae](https://speedcore.ae/)
 A corporate site with a strong focus on performance and a clean UI.
 
-**Top Companies in USA** — [topcompaniesinusa.com](https://topcompaniesinusa.com/)
+**Top Companies in USA**: [topcompaniesinusa.com](https://topcompaniesinusa.com/)
 A large business directory built with custom post types, filtering, and SEO in mind from the ground up.
 
-**ZA Landscaping** — [zalandscaping.com](https://zalandscaping.com/)
+**ZA Landscaping**: [zalandscaping.com](https://zalandscaping.com/)
 A website for a landscaping business.
 
-**RCL Pakistan** — [rcl.com.pk](https://rcl.com.pk/)
+**RCL Pakistan**: [rcl.com.pk](https://rcl.com.pk/)
 A corporate company website built on WordPress.
 
 ## Tech Stack
 
 WordPress · PHP · JavaScript · HTML5 · CSS3 · MySQL · WooCommerce · Elementor · REST API · Git · GitHub · VS Code · Linux · Cloudflare · Google Search Console · Google Analytics · PageSpeed Insights
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arif-tunio&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="160"/>
-</div>
-
 ## Connect
 
-Portfolio — [ariftunio.online](https://ariftunio.online)
-LinkedIn — [linkedin.com/in/arif-tunio](https://linkedin.com/in/arif-tunio)
-YouTube — [@WPAcademyPK](https://youtube.com/@WPAcademyPK)
-GitHub — add your GitHub URL here
-Email — add your email here
+Portfolio: [ariftunio.online](https://ariftunio.online)
+LinkedIn: [linkedin.com/in/arif-tunio](https://linkedin.com/in/arif-tunio)
+YouTube: [Arif Tunio](https://www.youtube.com/@ariftunio-official)
+GitHub: add your GitHub URL here
+Email: add your email here
 
 <br/>
 
