@@ -51,8 +51,7 @@ WordPress · PHP · JavaScript · HTML5 · CSS3 · MySQL · WooCommerce · Eleme
 Portfolio: [ariftunio.online](https://ariftunio.online)
 LinkedIn: [linkedin.com/in/arif-tunio](https://linkedin.com/in/arif-tunio)
 YouTube: [Arif Tunio](https://www.youtube.com/@ariftunio-official)
-GitHub: add your GitHub URL here
-Email: add your email here
+Email: ariftunio387@gmail.com
 
 <br/>
 
